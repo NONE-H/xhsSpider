@@ -1,0 +1,1741 @@
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"49836897-e0cf-44ad-bf98-48c2539d1894","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1e8af886-ae30-4069-bbc5-18e84faa280b","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62c05b5b000000000903b9eb"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"16252575-2e23-41d1-8b3a-ce818430c682","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"53710da4-4e83-4e1d-98cf-7863b40a563f","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1cbfbf76-03e4-432e-9a9f-fb8a215355b9","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62be8fc700000000040015e9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ff701535-095f-4ec4-ab4b-25b60792937d","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61fe1c7a0000000021036a22"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"86e13995-2f89-4206-8f09-39bbacf2c7c3","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"27344e1e-6b9b-4b68-b0c4-dc9c4da39a19","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6265052f000000000102dd81"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"40f395d9-c086-4eb9-b795-668036ed5e49","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"aac4f7a9-7d6b-432a-b4b0-deb85f60250f","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62bc41980000000004000dfa"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"16221a25-ee1f-4caf-be5e-0ab99ebaf26e","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"10b50fd9-687c-435e-b2c2-944474e813ec","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e1f8e2000000001b01d0d7"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"95af8614-dfd6-4337-8391-fb0b86cd81c2","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b77cba8f-3e66-4597-aa6e-d16d6a940536","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62ab330e000000002103fd63"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c43fcfe6-138d-4361-8adc-48aaf1f66f19","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"50942e40-29c0-4472-8394-a0e6b108962e","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62161b2000000000210345b9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:01:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b5631381-1cf8-4eda-8410-11534780ae0f","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:00 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"fc6d0032-b880-479a-9e48-c5b91da97f23","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"625cc726000000002103fc34"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:00 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6a011fcc-92cf-4b9e-a094-fddab70d7f64","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:02 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"2e12533b-7497-41d6-9565-e0a9feabc9e4","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62be901c000000000603b788"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:02 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d5dd397b-21b3-42bf-ad02-68498d48d340","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:04 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c2f6708f-ead3-456c-b91d-7cd0532b63da","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61d678f7000000000102b464"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:04 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"7382a610-8f5e-46cc-9fcc-34d11618b6f5","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:06 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"486f1ecd-f283-49ce-856a-62e98956beac","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"628188e40000000021038d89"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:06 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"33327515-243d-485b-9165-4127743252f9","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"bac90737-b40e-4366-847a-bef6a2fdd7f1","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e2e65c0000000012006473"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"f820aadc-3500-4fa4-ada8-9fbf1869e43e","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"dca950bd-90be-435f-a8ae-50e5b1be1264","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6193956d000000002103b91e"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"bfda75f3-be4c-4d86-a5c3-a4a5b1e81d48","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:14 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"bd07755e-11d0-4a2d-977e-28681f64d4af","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"629fe6bf000000000102c767"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:14 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"5e49135f-50e6-4d96-b37c-d8f6c4960cd1","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:17 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"92ec86fa-b88e-4279-985e-c825c11fcb1d","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e266bf000000001b01f88d"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:17 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d1599ab9-28fa-498f-bb11-c646dceb0a47","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:19 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"72b8dc08-fe20-473b-8d1d-29c40738af1a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62c142f90000000001026d31"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:19 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6a6021fb-b3a0-4617-8264-1147366b89da","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:21 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"fa7209cf-78e0-4b74-bb58-b64a2e61a786","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5ef497f00000000001005882"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:21 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"fc3fa01f-2428-4385-b2c4-30f70ebb6e9b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"7073d64d-1f1b-48c4-8a2f-2c692c934adb","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5e53282f000000000100329f"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c94afe95-e9f8-4810-9ebe-49dcec5f763b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d723630d-3dd7-4005-a28d-26a2a6477dcf","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62b0537e000000000e02846b"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b7208d5e-0463-460b-930b-b5373c9eedda","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:29 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"989b5f93-b143-4159-9130-d1c395160390","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62c11a8b00000000020020c8"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:29 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"5c884de1-b535-4753-82e3-8ce020218134","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d834ee76-3be5-4261-84d2-451d7c652818","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62bfd8ef0000000006035f13"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"90d3ebbf-3e2c-410b-982d-65af2da0727d","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:35 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"2bee8a24-8f2a-4ecc-8e65-bbec9f6bfe11","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e1413f000000001e0164d4"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:34 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"351a3cbe-1b36-4427-8385-3caf189075f5","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:36 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6bb6eb55-7baf-406c-b967-fb0a689c5e10","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"625ff1b90000000001026d5f"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:36 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d73117d5-16c6-4cfe-89f2-e384efcda5b5","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:38 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"680acc58-620f-4d80-96d3-90932bc21292","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60eeb54900000000210394f5"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:38 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6f77973e-e24f-4efb-a14d-df404b632c72","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:40 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"f9a963cc-f308-46a9-b009-d97e0ec795f9","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5e454f6e0000000001000ce7"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:40 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"fdee9180-3fc3-4ebd-9b43-554860eff557","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:44 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d0c9e634-a392-4468-ac9b-e9328ed80e08","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61a25ea5000000000102babe"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:44 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"31194a56-939c-40dd-a0c9-85c54c6592bd","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:46 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"a9ef59a5-e6f0-4f84-87af-45c28939ebcb","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e14a0d000000001b0296cd"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:46 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"f5a59d35-4a79-467d-9089-9f08cb5f7772","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:48 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"dab3f607-22c2-41e9-aee8-6c0ec5789822","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62e2389c000000001c00bd02"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:48 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"168f45f7-d5c3-429e-a37b-835247d3e474","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:53 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"e36de64f-2160-41d0-8b33-ba755eb6deb2","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62185af100000000210381e1"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:53 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"eeb0e93e-3ef3-4558-9999-bff491532ddd","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:55 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"9852f8d5-6c09-49a0-857d-2886c180d236","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6243b9770000000021039f38"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:55 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"658287fe-9e22-493d-b97f-e93c5f9e7cf3","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"be3de5e7-9c6d-4143-9f8d-0d68daf5414c","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6194d8d80000000001029030"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:02:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"51ecb036-0ce0-4589-a293-bcd32feb3753","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:01 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b163784c-f291-47b6-bbda-cb7703585b1c","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"623960b0000000002103f579"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:01 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"9676a8fa-413e-4696-a61f-0843e402ff8b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:03 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"4d02c01f-cbae-474a-8fa6-f3c5252a4786","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61acc6270000000021039338"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:03 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"3ddddf95-2076-4957-9cb9-671ca415ae2d","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:05 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"348d20c5-2e1e-431b-a781-c6db0347e888","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5e131b61000000000100a78c"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:05 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1189
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c29619e1-712d-4ca4-be9e-0679493ce0a1","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1204
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"3f85548c-13b2-490a-9d50-c1e18e3e470e","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5b92ba9b07ef1c078c3ebe2f"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1189
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"28f9c324-b0e3-4bad-88b7-be2469817d19","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1204
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"12c27203-760d-4dc6-9f3e-cb6f3e01fa5c","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"629f4063000000001d0189a9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1189
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"618b80b4-a9e7-4d61-9ce2-e6c5cd150453","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1204
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ebee92e3-50a6-4466-aab2-797fd2c33729","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62a9f570000000000b006ee9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"63dde219-0dd5-4859-b0c3-cd9a8eb46a1d","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"5af7c0bc-bda2-491c-aa60-1b943024ce04","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5b92ba9b07ef1c078c3ebe2f"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"e8c5de4b-2c78-4a0c-9a57-4c68056adb14","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:18 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"fb000bc8-4a3f-4daf-8395-a25cdab97cf8","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"629f4063000000001d0189a9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:18 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1194
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1d604ad4-229d-4cb8-bc9a-d9ddfe44a9c9","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:20 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1209
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1391fb82-9bb9-40a9-b0fd-8e600b068508","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=新手第一套化妆品&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62a9f570000000000b006ee9"}]}
+HTTP/1.1 200 OK
+Date: Fri, 29 Jul 2022 05:03:20 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://watson.telemetry.microsoft.com/Telemetry.Request HTTP/1.1
+Connection: Keep-Alive
+User-Agent: MSDW
+MSA_DeviceTicket: t=EwCwAlN5BAAUx7kvJOvlZVsOh3du+AzMGpNViggAATS+BwpuLm/EY7oqLzSG6i9hwPUQVpqS2UqLnjBg0JrZfyc0KDylz9MLCnuvhyKMGnt5BmtRAFHS46hBnPxTA/ZIs9eNJCdyVZcuMOVGhlY59lTFFLDVMmp/69ftl+M2IHud8E/wUlV/gdOFuYgxB4j/fpkK6SWxn9ahSYusoPpO5Mc4C/zXpLmGuWaxISitJg9FUslugIpdt0Z4rDJFU3zPxFpI6AHPrUPccIIPyXM9h/AGHHcZ2/Go1UiklPuxapMsroVwJTPvh42GDZTdmJXazoWruwnGd9qz+SuQmZgaeOQX6JdIj4UBK2aIX6atJRNQlBzQiiDA2TmLEit8A5gDZgAACAVLYzwLNBXagAHryV0XZcy7XbXqz1yZmz3RoQE4noI1+yIv4HYOsOeTfOMg/ToXl/N2WWPiRvyHdiMCqDTgcXrKJ5abQtfLkZpScf3f/Lx8hwlaPSEzISxBDza5e1BZ9OexrLatwD1a4nKJiRqe2yitISnrSao3Zqe+nCgO9Aef7JK3hkk6Ruf3Z6bbzpynCaNXu/w5uCS5OeBm1sNaPWJ4MsDCj5ix/u7Alv5Gu4WYGiE50i2O0geD80UM72L7aBb7YV+D9Cry1VkUvUDJfxkmJcaxSS3sKSWMAPo89r0X7r3daiR0Ue5eqX3rj5yvxT3bUz+yGIBqzryVTf97mZN0/4ibp7hfzr7ReQgWq6FcwyTSb4wiyEveNaTLkxzA9tSZ5Pxvh4qpv1Nh9NsI5ADCH6TdbMHikXEEOakKfFOIbu53DjxVpsVuuX63C5jh0UBJnMYMjFNz3GE+yQHziZ3KAJ9L6HRKi56dpsLcVBuIV9cx4YHQNRBlUqtNp++vofx4qakU52Awp8y3AQ==&p=
+Content-Length: 4324
+Host: watson.telemetry.microsoft.com
+
+
+HTTP/1.1 408 Request body incomplete
+Date: Fri, 29 Jul 2022 04:54:52 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Cache-Control: no-cache, must-revalidate
+Timestamp: 12:54:52.980
+
+The request body did not contain the specified number of bytes. Got 0, expected 4,324                                                                                                                                                                                                                                                                                                                                                                                                                                           
+
+------------------------------------------------------------------
+

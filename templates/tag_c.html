@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>首页</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta content="" name="keywords">
+    <meta content="" name="description">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+    <link href="static/css/css2.css" rel="stylesheet">
+
+    <link href="static/css/all.min.css" rel="stylesheet">
+    <link href="static/css/bootstrap-icons.css" rel="stylesheet">
+    <link href="static/css/owl.carousel.min.css" rel="stylesheet">
+    <link href="static/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet">
+    <link href="static/css/bootstrap.min.css" rel="stylesheet">
+    <link href="static/css/style.css" rel="stylesheet">
+</head>
+<body>
+<div class="container-fluid position-relative bg-white d-flex p-0">
+
+    <div id="spinner"
+         class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+
+    <div class="sidebar pe-4 pb-3">
+        <nav class="navbar bg-light navbar-light">
+            <a href="index1.html" class="navbar-brand mx-4 mb-3">
+                <h3 class="text-primary">小红书数据分析</h3>
+            </a>
+            <div class="navbar-nav w-100">
+                <a href="/home" class="nav-item nav-link "><i class="fa fa-tachometer-alt me-2"></i>首页</a>
+                <a href="/detail/2" class="nav-item nav-link "><i class="bi bi-card-text me-2"></i></i>详情页</a>
+                <a href="/time_t/all" class="nav-item nav-link "><i class="bi bi-alarm-fill me-2"></i>时间表</a>
+                <a href="/headerCount_t" class="nav-item nav-link "><i class="bi bi-heart-fill me-2"></i>点赞次数表</a>
+                <a href="/careArticle_t" class="nav-item nav-link "><i class="bi bi-chat-text me-2"></i>相关个数表</a>
+                <a href="/tag_t" class="nav-item nav-link "><i class="bi bi-heptagon me-2"></i>标签表</a>
+                <a href="/tag_c" class="nav-item nav-link active"><i class="bi bi-kanban me-2"></i>标签词云图</a>
+                <a href="/content_c" class="nav-item nav-link "><i class="bi bi-pause-circle me-2"></i>内容词云图</a>
+            </div>
+        </nav>
+    </div>
+
+
+    <div class="content">
+
+        <nav class="navbar navbar-expand bg-light navbar-light sticky-top px-4 py-0">
+            <a href="index1.html" class="navbar-brand d-flex d-lg-none me-4">
+                <h2 class="text-primary mb-0"><i class="fa fa-hashtag"></i></h2>
+            </a>
+            <a href="#" class="sidebar-toggler flex-shrink-0">
+                <i class="fa fa-bars"></i>
+            </a>
+            <div class="navbar-nav align-items-center ms-auto">
+                <div class="nav-item dropdown">
+                    <a href="#" class="nav-link " data-bs-toggle="dropdown">
+                        <span class="d-none d-lg-inline-flex"></span>
+                    </a>
+                </div>
+            </div>
+             <style>
+                .email {
+                    position: absolute;
+                    top: 12px;
+                    right: 20px;
+                    height: 80px
+                }
+
+                .email:hover .loginout {
+                    display: block;
+                    cursor: pointer
+                }
+
+                .email .loginout {
+                    position: absolute;
+                    right: 39px;
+                    top: 36px;
+                    display: none;
+                    background-color: #fff;
+                    padding: 0px 10px;
+                }
+
+                .w-100 span {
+                    display: -webkit-box;
+                    -webkit-box-orient: vertical;
+                    overflow: hidden;
+                    -webkit-line-clamp: 4;
+
+                }
+            </style>
+            <div class="email">
+                {{ email }}
+                <div class="loginout">
+                    <a href="/loginout">
+                        退出登录
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <div class="container-fluid pt-4 px-4">
+            <div class="row g-4">
+                <div class="col-sm-12 col-md-12 col-xl-12">
+                    <div class="h-100 bg-light rounded p-4">
+                        <div class="d-flex align-items-center justify-content-between mb-2">
+                            <h6 class="mb-0">标签词云图</h6>
+                            <form class="d-none d-md-flex ms-4" action="/tag_c" method="post">
+                                <select class="form-select mb-3" name="selectType" aria-label="Default select example">
+                                    {% for i in typeList %}
+                                        <option value="{{ i }}" selected="">{{ i }}</option>
+                                    {% endfor %}
+                                </select>
+                                <button type="submit" class="btn btn-primary">确定</button>
+                            </form>
+                        </div>
+                        <div id="main" style="width:100%;height:450px;text-align:center;">
+                            <img style="width:38%" src="../static/{{ img_name }}.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="container-fluid pt-4 px-4">
+            <div class="bg-light rounded-top p-4">
+                <div class="row">
+                    <div class="col-12 col-sm-6 text-center text-sm-start">
+                        Copyright &copy; 2022.小红书关注数据可视化分析
+                    </div>
+                    <div class="col-12 col-sm-6 text-center text-sm-end">
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+</div>
+
+<script src="static/js/jquery-3.4.1.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/bootstrap.bundle.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/chart.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/easing.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/waypoints.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/owl.carousel.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/moment.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/moment-timezone.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/tempusdominus-bootstrap-4.min.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+
+<script src="static/js/main.js" type="4bebc94b2db97a1f9680a39f-text/javascript"></script>
+<script src="static/js/rocket-loader.min.js" data-cf-settings="4bebc94b2db97a1f9680a39f-|49" defer=""></script>
+<script src="static/js/echarts.min.js"></script>
+</body>
+<script>
+
+</script>
+</html>

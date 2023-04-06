@@ -1,0 +1,1974 @@
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1161
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"3ff30ac3-9aa0-4bb6-bec9-1d36746a22f1","se_ca":"SearchIndex","se_ac":"navigate_back","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:14:52 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1124
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"04c6583f-926c-4a5b-acb1-817c236a43c7","se_ca":"HomePage","se_ac":"search_input_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/main/home/index?scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:14:53 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1215
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"798e609c-a23a-4bac-b236-61a039c9888d","se_ca":"SearchIndex","se_ac":"search_button_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"searchMode\":\"notes\",\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"上海美食"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:14:56 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1190
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"bedd6baa-2cbd-4812-8c9a-ff32c8650644","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"search_show_sort"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:14:59 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"4d940fcc-b8d9-4408-9765-764b10d82ebc","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:03 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"752bc186-8183-42dd-b830-5c4a31e5758a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60e408af0000000001025b2e"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:03 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"8bd82fda-8528-4cfb-bb0a-115bca869ae7","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:05 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"31b974d5-b7b8-45c4-9f45-5c1fb4fa8df5","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6075348e0000000021034c77"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:05 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"93667ba7-623c-4e7b-8b7b-ef71ccc301b3","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b2ead99b-f84c-48c9-a973-858481ef5b69","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61f62618000000002103aad3"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"4ed548ab-79dd-4ed3-9be4-a593004f83c4","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"f847fe1d-839e-48e3-a9d7-08a8569a2c94","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"624aba2f0000000001029f70"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"46bb58e8-8759-4ab8-b626-bf47fc150306","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:14 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c446cba5-0ead-467d-94b6-168728762aa3","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5f3135620000000001006a54"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:14 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"63952da7-3d38-4f58-9a0d-1d8b049ab43b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"460df081-2e93-481b-9893-393932f8321d","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"619a0fe3000000002103cfca"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1ee035f7-c05a-4b3c-8394-f8ffb389502b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:20 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"17a03bf2-93f0-4f0a-a41d-12572cc2981e","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6136b41c00000000210384b2"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:20 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"8e2267ef-a8a1-43bb-9709-7fef2aa9ebff","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:22 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"637441a2-699d-468b-b06a-12c0ffb43c2b","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61f0e92a000000002103ccfd"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:22 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ee01b95e-a91e-4858-a2e8-79777e20b74d","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b442cccc-8df5-4fe3-9055-e9b9c863f99a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6180bcc6000000002103626a"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d9f74376-20a1-4c60-9e42-778e206191dc","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"2e9b9eb1-9c63-45f7-95d4-93685dc7b87a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61971aa30000000021034985"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"585f4a21-6308-4010-85fb-9d154a1db762","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"45932e95-e5e6-4f33-9fab-b208c049b7ea","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60e94b08000000002103e9bd"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"54861a96-ead0-4d38-bbf1-60b04d3e1495","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:33 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"957f1d4b-d17a-4646-bea8-52cf216dd96a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60605d59000000000102b164"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:33 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"0c0c09f9-61b8-482d-a482-f2386b27275f","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:35 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"a3191529-34a9-4d1d-8986-82f141d4d652","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60c364f7000000000102d449"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:35 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"af01ab6f-1737-4189-8e27-42b205aa9384","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:39 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"bc6601b8-e89e-4024-a48e-7f3ecbe5f098","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"627e3afc0000000021035e0e"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:39 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"62aab999-b408-4d46-a770-e083f0432996","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:41 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"29c0892f-c1a8-4fcc-aa8d-3b8253934fb4","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6034662400000000010294ff"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:41 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"32272b94-aa6f-440e-b708-f3fe8bd136fd","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:45 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"92ece774-0a12-4c0d-86c3-3f294b95edfa","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6258327100000000210370f7"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:45 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b114cda1-613c-4a23-b5cb-7ef9c727b081","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:47 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"2baa2b7e-1a5d-4ea6-bcdf-586874d8d4fe","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"609e5a9f000000002103909f"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:47 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"13cebb5b-06b2-46c9-b8be-eb1e76dcbc43","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:49 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"9566bbc1-ac96-48f2-91d9-137b4af2f35a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"605b83fc000000000102cea3"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:49 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b310ab55-55ca-49c0-8af1-30044adbbef8","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:52 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"61ac35ef-40cb-441f-850d-fc817d6f4d76","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61ab734e000000002103f413"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:52 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"afd1e30d-fe87-463a-8386-1619b98d1836","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:54 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"20a60a1b-6f91-4325-be54-a141fe843aab","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60b2645f0000000021034b55"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:54 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"7ea5c5a7-ff83-401d-a79e-3a6cf4cbb1e8","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:58 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"764cfc5c-ee8d-42f3-99fe-7867c4bfb745","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62249a13000000002103d6a9"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:15:58 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"87b41879-5a27-4a03-8c90-1ce6107039ab","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:00 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"5d16bc20-1788-4ce8-aef9-5957bdb1c45b","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"62b06455000000002103633b"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:00 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ed5b796e-fa93-4e8f-b568-e1f42ef1e482","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:02 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1ca319de-53e1-4236-a45b-c8ae266ecfa9","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"623bed27000000000102b795"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:02 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"c858cc41-539e-4373-808d-8079cb93bed1","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:04 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"8b486962-4bd8-4007-a059-7150ada1a3b6","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"609a3aae0000000001024125"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:04 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"775d54cc-7646-4641-bd9d-a948305d43d5","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"0711a00e-525a-4e7b-be86-7cff52533f1a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"608565c2000000000102d7fb"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:08 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"74a7fd76-709a-48d9-80f7-48825f790c44","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1d20389e-6924-44a0-977e-934a56f4c23d","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5ee3489e00000000010047e6"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:10 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"f4d1d32c-0749-4bdc-916f-52a3e6067b59","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"a9c0b108-538d-40ec-b0b5-890b2f6bd264","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6022058e000000002103f833"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:12 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6442886f-aeb9-410c-81c4-d90d2c80b6b8","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"836186b3-dcdc-4f40-bc9d-901398109707","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61e6ab370000000021036837"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:16 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"7017b584-80b8-4a6f-afd1-f1f2d2124613","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:18 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"565ab8f7-bea9-4bca-a193-e2813eeafe76","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60bddeaf000000000102c0a5"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:18 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"e854509a-9401-4cc5-8971-567f48aadc3a","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:21 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"12b254f2-66ba-45c3-a424-3f44605c421a","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61e3aed30000000001024608"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:21 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"e84b26b8-ee73-47ac-9e47-202545baa115","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:23 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ada89555-9535-49b8-8b3b-e053ed9e5351","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"614af7a60000000021034759"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:23 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"66bb31ad-5852-4f27-8468-c59ad18f149f","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"23cb5b53-43b5-4538-92f5-541cb4bf9937","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"6164ffec000000000102c8d3"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:25 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"55955677-6842-46bb-9206-41a9991a9d95","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"2e2fd26e-d347-47f2-9ccb-7059e4026894","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5f1d7192000000000100a562"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:27 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"4f4930a4-8d56-4963-a992-d485c4372913","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"dedc9e7d-900a-4329-85d2-1b30829525e6","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61e66a1a000000000102d526"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:31 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"b9dce551-02d2-4654-9619-f7a3962e3d8c","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:33 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ddcb7917-b28f-4c52-ab35-126a97944b62","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61d2eaed0000000021035a7c"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:33 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"72d761ce-384d-451d-bb66-1959ebf9da93","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:35 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"1a857ab8-8dfb-4130-b636-785b5a7fc5c3","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5f50eebd000000000101d077"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:35 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"7327083a-d1a2-4f7b-97c9-6c8f36368fa6","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:39 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"5990b597-c4d4-4a34-8d99-429acc9ceccf","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61dd58b4000000002103da84"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:39 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ea6b900f-8f36-4bbf-9dfa-bbd2a47ae00f","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:41 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"a2620802-1731-4d22-b2bf-a8ecc8b285aa","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"629f2d96000000001d0337f1"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:41 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"cfc4c485-3bca-434a-b384-bb7e21f84b66","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:44 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"6f98149f-891a-44ec-8a2b-1940c9765c92","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"629b27ef0000000021034aba"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:44 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"427bed8f-cbf8-4e54-ac95-326cfed9feee","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:46 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d20cc574-3ceb-49b0-b302-42d5ac1031bf","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5e05d4be000000000100bfe5"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:46 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"02223ac6-1476-4c17-bd1e-6537f1030197","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:48 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"ecf008c2-f71b-43b5-9837-c88403f25f2c","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"621227dc0000000001024273"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:48 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1188
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"90f02338-5688-42b1-959c-60c8da071750","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card_like"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:51 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1203
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"74515645-aeb9-41b6-b5e7-b8377381447e","se_ca":"SearchIndex","se_ac":"note_card_like_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"5f8586000000000001006743"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:51 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1183
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"a988af13-623a-4c8b-81ba-fc227183fb3d","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:54 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1198
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"34501fa5-a679-4bc4-bf87-1582ec724664","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"60a5e4b0000000000102cd6d"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:54 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1183
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"382dc793-a2b0-487f-a022-c92755d320fb","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:56 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1198
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"df5a3cbc-c4b6-4328-9325-44442e61cae8","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"61c897a500000000210392a0"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:56 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1183
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"e353defd-ad51-4eb1-bed8-c99ab5ad6c7b","se_ca":"SearchIndex","se_ac":"collect_form_id","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_la":"note_card"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:58 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+
+POST https://t.xiaohongshu.com/api/collect HTTP/1.1
+Host: t.xiaohongshu.com
+Connection: keep-alive
+Content-Length: 1198
+Authorization: wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36 MicroMessenger/7.0.9.501 NetType/WIFI MiniProgramEnv/Windows WindowsWechat
+content-type: application/json
+Referer: https://servicewechat.com/wxb296433268a1c654/65/page-frame.html
+Accept-Encoding: gzip, deflate, br
+
+{"schema":"payload","data":[{"tna":"mpT","tv":"mp-0.1.0","aid":"xhs_marco_mewtwo#7.33.1","vp":"414x632","p":"mp","e":"se","exp":"tailuo_wechat_11038_1|jcao_wechat_9816_2|jcao_wechat_6250_2|jcao_wechat_5639_2|yuchenwang_wechat_4355_2|jcao_wechat_8066_2|jcao_wechat_6340_2|dji2_wechat_2632_4|yuchenwang_wechat_4217_3|jcao_wechat_5711_2","eid":"d7095a2d-2c00-4032-852e-7d3672a37cf9","se_ca":"SearchIndex","se_ac":"note_card_click","uid":"ae63409524bae8b1713a627de5ecd0a9","nuid":"5f1590930000000001000275","url":"pages/secondary/search/index?defaultValue=男装夏季搭配&scene=88","co":"{\"schema\":\"xhs_mini_program/1-0-0\",\"data\":[{\"schema\":\"mp-user/1-0-0\",\"data\":{\"openid\":\"oPPUS5af9LoTqjLVrm9Qe8kh6q8w\",\"isNewWxmpUser\":false,\"isAppUser\":true,\"wxNickname\":\"\",\"sid\":\"session.1648524423005287298410\",\"authorization\":\"wxmp.86caf1bf-bc65-4590-b33d-aaa0d4ad19bb\"}},{\"schema\":\"page-info/1-0-0\",\"data\":{\"last_scene\":88,\"can_launch_app\":false,\"scene\":88}},{\"schema\":\"system-info/1-0-0\",\"data\":{\"model\":\"microsoft\",\"platform\":\"windows\",\"sdk\":\"2.19.2\",\"system\":\"Windows 10 x64\",\"version\":\"3.7.0\"}}]}","se_pr":"605de1fa0000000021034f15"}]}
+HTTP/1.1 200 OK
+Date: Thu, 30 Jun 2022 04:16:58 GMT
+Content-Type: application/json
+Content-Length: 17
+Connection: keep-alive
+
+{'success': true}
+
+------------------------------------------------------------------
+

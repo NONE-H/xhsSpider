@@ -1,0 +1,86 @@
+HTML:
+  now: 45
+  pointer: 2
+  target: 40
+PUBG:
+  now: 47
+  pointer: 2
+  target: 40
+SAVE_FREQUNCY: 20
+SCREEN_SCALING: 100
+java:
+  now: 46
+  pointer: 2
+  target: 40
+javascript:
+  now: 47
+  pointer: 2
+  target: 40
+vue:
+  now: 46
+  pointer: 2
+  target: 40
+"\u4E09\u4E9A\u7F8E\u98DF":
+  now: 122
+  pointer: 6
+  target: 300
+"\u4E0A\u6D77\u7F8E\u98DF":
+  now: 42
+  pointer: 2
+  target: 300
+"\u5316\u5986\u54C1":
+  now: 57
+  pointer: 2
+  target: 50
+"\u53E3\u7EA2":
+  now: 100
+  pointer: 5
+  target: 200
+"\u5403\u9E21":
+  now: 0
+  pointer: 0
+  target: 40
+"\u56DB\u5DDD\u7F8E\u98DF":
+  now: 103
+  pointer: 5
+  target: 300
+"\u5E95\u5986":
+  now: 47
+  pointer: 2
+  target: 40
+"\u6297\u8001\u7CBE\u534E":
+  now: 41
+  pointer: 2
+  target: 300
+"\u6E56\u5357\u7F8E\u98DF":
+  now: 41
+  pointer: 2
+  target: 300
+"\u7A0B\u5E8F\u5458":
+  now: 56
+  pointer: 2
+  target: 50
+"\u7C89\u5E95":
+  now: 47
+  pointer: 2
+  target: 40
+"\u7C89\u5E95=":
+  now: 0
+  pointer: 0
+  target: 40
+"\u7C89\u5E95\u6DB2":
+  now: 0
+  pointer: 0
+  target: 40
+"\u7F8E\u5986":
+  now: 206
+  pointer: 10
+  target: 200
+"\u82F1\u96C4\u8054\u76DF":
+  now: 45
+  pointer: 2
+  target: 40
+"\u9762\u819C":
+  now: 41
+  pointer: 2
+  target: 50
